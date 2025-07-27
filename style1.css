@@ -1,0 +1,14 @@
+h1 {
+  color: rgb(4, 95, 15);
+  font-size: 50px;
+  text-align: center;
+}
+li {
+  color: rgb(1, 1, 1);
+  font-size: 30px;
+}
+.links a {
+  margin-top: 10px;
+  font-size: 20px;
+  margin-right: 40px;
+}
